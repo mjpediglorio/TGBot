@@ -37,10 +37,6 @@ namespace Solamis
             Console.WriteLine("Input the Channel ID you wanna copy trade: \n");
             return Console.ReadLine();
         }
-        public async Task SendToBonkBot(WTelegram.Client? client, string TokenAddress)
-        {
-            var resolved = await client.Contacts_ResolveUsername("shelbytrades10");
-            await client.SendMessageAsync(resolved, TokenAddress);
-        }
+
     }
 }
