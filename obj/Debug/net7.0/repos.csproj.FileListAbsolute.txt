@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\repos\Solamis\bin\Debug\net7.0\repos.exe
+C:\Users\admin\Desktop\repos\Solamis\bin\Debug\net7.0\repos.deps.json
+C:\Users\admin\Desktop\repos\Solamis\bin\Debug\net7.0\repos.runtimeconfig.json
+C:\Users\admin\Desktop\repos\Solamis\bin\Debug\net7.0\repos.dll
+C:\Users\admin\Desktop\repos\Solamis\bin\Debug\net7.0\repos.pdb
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.AssemblyInfo.cs
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.dll
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\refint\repos.dll
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.pdb
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\repos.genruntimeconfig.cache
+C:\Users\admin\Desktop\repos\Solamis\obj\Debug\net7.0\ref\repos.dll

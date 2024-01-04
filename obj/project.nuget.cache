@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7jDJn1GYEd7XcunzmIuFib7Liu8TIwq45qK1Nf+Z1IoUOMQfnr0YGkNB52rGPyEPUtZ3ZkfXAb9ngpZIrmApQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\repos\\Solamis\\Solamis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\wtelegramclient\\3.6.3\\wtelegramclient.3.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
